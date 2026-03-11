@@ -195,6 +195,7 @@ h4 { font-size: 1.1rem; font-weight: 700; }
 }
 .logo-icon { font-size: 1.6rem; color: var(--orange); }
 .logo strong { color: var(--orange); }
+.header-logo-img { height: 24px; width: auto; display: block; }
 
 .nav { margin-left: auto; }
 .nav-list {
